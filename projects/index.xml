@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> </title>
+    <link>http://hedstroem.gitlab.io/projects/</link>
+    <description>Recent content on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://hedstroem.gitlab.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example project</title>
+      <link>http://hedstroem.gitlab.io/projects/example_project/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://hedstroem.gitlab.io/projects/example_project/</guid>
+      <description>Example project Here is a code block:
+def is_elementary(): return True https://github.com/hedstroem/example-project</description>
+    </item>
+    
+  </channel>
+</rss>
