@@ -3,15 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hedstroem.github.io/categories/</loc>
+    <loc>http://hedstroem.gitlab.io/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hedstroem.github.io/</loc>
+    <loc>http://hedstroem.gitlab.io/links/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hedstroem.github.io/tags/</loc>
+    <loc>http://hedstroem.gitlab.io/projects/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hedstroem.gitlab.io/links/example_link/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hedstroem.gitlab.io/projects/example_project/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hedstroem.gitlab.io/extra/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hedstroem.gitlab.io/contact/</loc>
   </url>
   
 </urlset>
